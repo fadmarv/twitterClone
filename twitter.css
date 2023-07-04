@@ -1,0 +1,1038 @@
+header {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    
+}
+.div1 {
+    width: 25%;
+    height: 100vh;
+    border: 1px solid rgb(241,244,245);
+    text-align: center;
+    position: fixed;
+    top: 0%;
+    margin-right: 1000px;
+}
+.div1 i {
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: -100px;
+}
+.div1 .but1 {
+    width: 150px;
+    height: 40px;
+    border-radius: 25px;
+    background: white;
+    border: 1px solid white;
+}
+.div1 .but2 {
+    width: 150px;
+    height: 40px;
+    border-radius: 25px;
+    background: white;
+    border: 1px solid white;
+}
+.but2:hover {
+    border: none;
+    background: rgb(195, 196, 197);
+}
+nav {
+    margin-bottom: -22px;
+    font-weight: 600;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.but1:hover {
+    border: none;
+    background: rgb(195, 196, 197);
+
+}
+.div1 .fa-sharp  {
+    font-size: 22px;
+    margin-top: -1px; 
+}
+
+.but2 .ig {
+    margin-left: -100px;
+    font-size: 22px;
+    margin-top: -15px; 
+}
+.but2 .txt {
+    margin-top: -24px;
+    margin-left: 23px;
+    color: rgb(47,51,56);
+    font-size: 18px;
+    font-weight: lighter;
+}
+
+.div2 {
+    width: 40%;
+    height: 1000vh;
+    margin-left: 350px;
+    margin-top: -8px;
+}
+.div3 {
+    width: 33%;
+    height: 100vh;
+    border: 1px solid rgb(241,244,245);
+    position: fixed;
+    top: 0%;
+    margin-left: 910px;
+}
+.div3 .box {
+    border: 1px solid rgb(218,220,224);
+    width: 75%;
+    margin-top: 10px;
+    height: 44vh;
+    border-radius: 10px;
+    margin-left: 40px;
+}
+.div3 .cp {
+    margin-left: 13px;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: sans-serif;
+    margin-top: 10px;
+
+}
+.div3 .pp {
+    font-size: 13px;
+    margin-left: 10px;
+    margin-top: -15px;
+    font-family: sans-serif;
+}
+.div3 .hbut {
+    text-align: center;
+    margin-left: 10px;
+    width: 84%;
+    height: 40px;
+    border-radius: 25px;
+    border: 1px solid rgb(218,220,224);
+    background: white;
+}
+.div3 .hbut i {
+    font-size: 20px;
+}
+.div3 .wbut {
+    margin-left: 10px;
+    width: 84%;
+    height: 40px;
+    border-radius: 25px;
+    border: 1px solid rgb(218,220,224);
+    background: white;
+    margin-top: -5px;
+    text-align: center;
+}
+.wbut i {
+    font-size: 23px;
+    margin-left: -120px;
+    margin-top: -25px;
+    margin-bottom: 20px;
+}
+.wbut .nv {
+    font-weight: bold;
+    font-size: 15px;
+    margin-top: -40px;
+    margin-right: -40px;
+}
+.hbut:hover {
+    border: none;
+    background: rgb(247, 250, 253);
+}
+.wbut:hover {
+    border: none;
+    background: rgb(218,220,224);
+}
+.div3 .obut {
+    margin-left: 10px;
+    width: 84%;
+    height: 40px;
+    border-radius: 25px;
+    border: 1px solid rgb(218,220,224);
+    background: white;
+    text-align: center;
+    margin-top: 15px;
+    font-size: 15px;
+    font-weight: bold;
+}    
+.obut:hover {
+    border: none;
+    background: rgb(218,220,224);
+}
+.ip {
+    margin-left: 10px;
+    font-size: 12px;
+    font-family: sans-serif;
+}
+a {
+    text-decoration: none;
+    color: rgb(94,184,244);
+}
+a:hover {
+    text-decoration: underline;
+}
+.a0 {
+    font-size: 15px;
+    color: black;
+    text-align: center;
+    margin-left: 35px;
+}
+.a0:hover {
+    text-decoration: none;
+}
+.div2 .adiv {
+    width: 40%;
+    margin: auto;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
+    margin-top: -8px;
+    background: white;
+}
+.adiv .exp {
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 15px;
+}
+.adiv .set {
+    margin-right: 18px;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    border: none;
+    background: white;
+}
+.set:hover {
+    background: rgb(240,240,240);
+}
+.adiv .set img {
+    width: 19px;
+}
+.div2 .num1 {
+    height: 490px;
+    margin-top: 60px;
+    width: 100%;
+}
+.num1 .wum1 {
+    width: 100%;
+    height: 70px;
+    display: flex;
+
+}
+.num1 .img1 {
+    width: 50px;
+    height: 50px;
+    margin-left: 5px;
+
+}
+.wum1 .pimg {
+    margin-left: 15px;
+    margin-top: -0px;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.num1 .imgg {
+    width: 25px;
+    height: 25px;
+    margin-left: 3px;
+    margin-top: -4px;
+}
+.wum1 .dp {
+    margin-top: -1px;
+    font-family: sans-serif;
+    color: rgb(83,100,113);
+    font-size: 15px;
+}
+.num1 .dot {
+    width: 20px;
+    height: 25px;
+    margin-left: 220px;
+    margin-top: -4px;
+}
+.num1 .tvt {
+    font-size: 13px;
+    font-family: sans-serif;
+    margin-left: 71px;
+    margin-top: -50px;
+}
+.num1 .img {
+    border-radius: 20px;
+    padding: 20px;
+    margin: auto;
+    width: 80%;
+    margin-top: 30px;
+    height: 300px;
+    background: url(images/pic1.jpg);
+    background-size: cover;
+    margin-bottom: -20px;
+}
+.fa {
+    margin-top: -0px;
+}
+.mmsg {
+    margin-top: 25px;
+    margin-left: 30px;
+    margin-right: 18px;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    border: none;
+    background: white;
+}
+.mmsg:hover {
+    background: rgb(197, 197, 231);
+}
+.psg {
+    margin-left: -20px;
+    font-family: sans-serif;
+    font-size: 13px;
+    width: 22px;
+    color: rgb(93,109,121);
+}
+.psg:hover {
+    background: rgb(197, 197, 231);
+    width: 22px;
+}
+.mvsg {
+    margin-left: 20px;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    border: none;
+    background: white;
+    margin-top: 5px;
+}
+.mvsg .mvg {
+    width: 15px;
+    height: 15px;
+}
+.mvsg:hover {
+    background: rgb(162, 187, 167);
+}
+.vsg {
+    font-size: 13px;
+    color: rgb(93,109,121);
+    font-weight: normal;
+}
+.vsg:hover {
+    background: rgb(162, 187, 167);
+    width: 22px;
+}
+.mpsg {
+    margin-left: 20px;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    border: none;
+    background: white;
+    margin-top: 5px;
+}
+.mpsg .mpg {
+    width: 15px;
+    height: 14px;
+}
+.mpsg:hover {
+    background: rgb(231, 116, 135);
+}
+.vpg {
+    font-size: 12px;
+    color: rgb(93,109,121);
+    font-weight: normal;
+}
+.vpg:hover {
+    background: rgb(231, 116, 135);
+    width: 22px;
+}
+.mwsg {
+    margin-left: 20px;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    border: none;
+    background: white;
+    margin-top: 5px;
+}
+.mwsg .mwg {
+    width: 16px;
+    height: 15px;
+}
+.mwsg:hover {
+    background: rgb(197, 197, 231);
+}
+.wsg {
+    font-size: 12px;
+    color: rgb(93,109,121);
+    font-weight: normal;
+}
+.wsg:hover {
+    background: rgb(197, 197, 231);
+    width: 22px;
+}
+
+
+.div2 .num2 {
+    height: 800px;
+    margin-top: 0px;
+    width: 100%;
+}
+.num2 .wum2 {
+    width: 100%;
+    height: 70px;
+    display: flex;
+
+}
+.num2 .imgg {
+    width: 50px;
+    height: 50px;
+    margin-left: 5px;
+    border-radius: 50%;
+}
+.wum2 .cimg {
+    margin-left: 10px;
+    margin-top: -0px;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.num2 .img2 {
+    width: 25px;
+    height: 25px;
+    margin-left: 3px;
+    margin-top: -4px;
+}
+.wum2 .dp {
+    margin-top: -1px;
+    font-family: sans-serif;
+    color: rgb(83,100,113);
+    font-size: 15px;
+    margin-right: -270px;
+}
+.num2 .dots {
+    width: 20px;
+    height: 25px;
+    margin-left: 270px;
+    margin-top: -4px;
+}
+.num2 .tvt {
+    font-size: 15px;
+    font-family: sans-serif;
+    margin-left: 71px;
+    margin-top: -50px;
+}
+.num2 .img {
+    border-radius: 20px;
+    padding: 20px;
+    margin: auto;
+    width: 70%;
+    margin-top: 30px;
+    height: 600px;
+    background: url(images/ppp.jpg);
+    background-size: cover;
+    margin-top: -1px;
+}
+.num2 .fa {
+    margin-top: -0px;
+    margin-left: 30px;
+}
+.mmsg {
+    margin-top: 25px;
+    margin-left: 30px;
+    margin-right: 18px;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    border: none;
+    background: white;
+}
+.mmsg:hover {
+    background: rgb(197, 197, 231);
+}
+.psg {
+    margin-left: -20px;
+    font-family: sans-serif;
+    font-size: 13px;
+    width: 22px;
+    color: rgb(93,109,121);
+}
+.psg:hover {
+    background: rgb(197, 197, 231);
+    width: 22px;
+}
+.mvsg {
+    margin-left: 20px;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    border: none;
+    background: white;
+    margin-top: 5px;
+}
+.mvsg .mvg {
+    width: 15px;
+    height: 15px;
+}
+.mvsg:hover {
+    background: rgb(162, 187, 167);
+}
+.vsg {
+    font-size: 13px;
+    color: rgb(93,109,121);
+    font-weight: normal;
+}
+.vsg:hover {
+    background: rgb(162, 187, 167);
+    width: 22px;
+}
+.mpsg {
+    margin-left: 20px;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    border: none;
+    background: white;
+    margin-top: 5px;
+}
+.mpsg .mpg {
+    width: 15px;
+    height: 14px;
+}
+.mpsg:hover {
+    background: rgb(231, 116, 135);
+}
+.vpg {
+    font-size: 12px;
+    color: rgb(93,109,121);
+    font-weight: normal;
+}
+.vpg:hover {
+    background: rgb(231, 116, 135);
+    width: 22px;
+}
+.mwsg {
+    margin-left: 20px;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    border: none;
+    background: white;
+    margin-top: 5px;
+}
+.mwsg .mwg {
+    width: 16px;
+    height: 15px;
+}
+.mwsg:hover {
+    background: rgb(197, 197, 231);
+}
+.wsg {
+    font-size: 12px;
+    color: rgb(93,109,121);
+    font-weight: normal;
+}
+.wsg:hover {
+    background: rgb(197, 197, 231);
+    width: 22px;
+}
+
+
+.div2 .num3 {
+    height: 560px;
+    margin-top: 0px;
+    width: 100%;
+}
+.num3 .wum3 {
+    width: 100%;
+    height: 70px;
+    display: flex;
+
+}
+.num3 .imgy {
+    width: 50px;
+    height: 50px;
+    margin-left: 5px;
+    border-radius: 50%;
+}
+.wum3 .dimg {
+    margin-left: 10px;
+    margin-top: -0px;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.num3 .img3 {
+    width: 25px;
+    height: 25px;
+    margin-left: 3px;
+    margin-top: -4px;
+}
+.wum3 .lp {
+    margin-top: -1px;
+    font-family: sans-serif;
+    color: rgb(83,100,113);
+    font-size: 15px;
+    margin-right: -270px;
+}
+.num3 .dotz {
+    width: 20px;
+    height: 25px;
+    margin-left: 470px;
+    margin-top: -4px;
+}
+.num3 .tpt {
+    font-size: 15px;
+    font-family: sans-serif;
+    margin-left: 71px;
+    margin-top: -50px;
+}
+.num3 .img {
+    border-radius: 20px;
+    padding: 20px;
+    margin: auto;
+    width: 82%;
+    margin-top: 30px;
+    height: 400px;
+    background: url(images/mem.jpg);
+    background-size: cover;
+    margin-top: -1px;
+    margin-left: 60px;
+}
+.num3 .fa {
+    margin-top: -5px;
+    margin-left: 30px;
+}
+.mbsg {
+    margin-top: 25px;
+    margin-left: 30px;
+    margin-right: 18px;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    border: none;
+    background: white;
+}
+.mog:hover {
+    background: rgb(197, 197, 231);
+}
+.osg {
+    margin-left: -20px;
+    font-family: sans-serif;
+    font-size: 13px;
+    width: 22px;
+    color: rgb(93,109,121);
+}
+.osg:hover {
+    background: rgb(197, 197, 231);
+    width: 22px;
+}
+.mdsg {
+    margin-left: 20px;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    border: none;
+    background: white;
+    margin-top: 5px;
+}
+.mdsg .mdg {
+    width: 15px;
+    height: 15px;
+}
+.mdsg:hover {
+    background: rgb(162, 187, 167);
+}
+.rsg {
+    font-size: 13px;
+    color: rgb(93,109,121);
+    font-weight: normal;
+}
+.rsg:hover {
+    background: rgb(162, 187, 167);
+    width: 22px;
+}
+.mlsg {
+    margin-left: 20px;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    border: none;
+    background: white;
+    margin-top: 5px;
+}
+.mlsg .mlg {
+    width: 15px;
+    height: 14px;
+}
+.mlsg:hover {
+    background: rgb(231, 116, 135);
+}
+.jpg {
+    font-size: 12px;
+    color: rgb(93,109,121);
+    font-weight: normal;
+}
+.jpg:hover {
+    background: rgb(231, 116, 135);
+    width: 22px;
+}
+.mosg {
+    margin-left: 20px;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    border: none;
+    background: white;
+    margin-top: 5px;
+}
+.mosg .mog {
+    width: 16px;
+    height: 15px;
+}
+.mosg:hover {
+    background: rgb(197, 197, 231);
+}
+.lsg {
+    font-size: 12px;
+    color: rgb(93,109,121);
+    font-weight: normal;
+}
+.lsg:hover {
+    background: rgb(197, 197, 231);
+    width: 22px;
+}
+
+
+.div2 .num4 {
+    height: 800px;
+    margin-top: 0px;
+    width: 100%;
+}
+.num4 .wum4 {
+    width: 100%;
+    height: 70px;
+    display: flex;
+
+}
+.num4 .imgz {
+    width: 50px;
+    height: 50px;
+    margin-left: 5px;
+    border-radius: 50%;
+}
+.wum4 .nimg {
+    margin-left: 10px;
+    margin-top: -0px;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.num4 .img4 {
+    width: 25px;
+    height: 25px;
+    margin-left: 3px;
+    margin-top: -4px;
+}
+.wum4 .jp {
+    margin-top: -1px;
+    font-family: sans-serif;
+    color: rgb(83,100,113);
+    font-size: 15px;
+    margin-right: -270px;
+}
+.num4 .dota {
+    width: 20px;
+    height: 25px;
+    margin-left: 470px;
+    margin-top: -4px;
+}
+.num4 .tlt {
+    font-size: 15px;
+    font-family: sans-serif;
+    margin-left: 71px;
+    margin-top: -50px;
+}
+.num4 .img {
+    border-radius: 20px;
+    padding: 20px;
+    margin: auto;
+    width: 82%;
+    margin-top: 30px;
+    height: 400px;
+    background: url(images/osi.jpg);
+    background-size: cover;
+    margin-top: -1px;
+    margin-left: 60px;
+}
+.num4 .fa {
+    margin-top: -5px;
+    margin-left: 30px;
+}
+.musg {
+    margin-top: 25px;
+    margin-left: 30px;
+    margin-right: 18px;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    border: none;
+    background: white;
+}
+.mkg:hover {
+    background: rgb(197, 197, 231);
+}
+.ksg {
+    margin-left: -20px;
+    font-family: sans-serif;
+    font-size: 13px;
+    width: 22px;
+    color: rgb(93,109,121);
+}
+.ksg:hover {
+    background: rgb(197, 197, 231);
+    width: 22px;
+}
+.mxsg {
+    margin-left: 20px;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    border: none;
+    background: white;
+    margin-top: 5px;
+}
+.mxsg .mhg {
+    width: 15px;
+    height: 15px;
+}
+.mxsg:hover {
+    background: rgb(162, 187, 167);
+}
+.hsg {
+    font-size: 13px;
+    color: rgb(93,109,121);
+    font-weight: normal;
+}
+.hsg:hover {
+    background: rgb(162, 187, 167);
+    width: 22px;
+}
+.mlvg {
+    margin-left: 20px;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    border: none;
+    background: white;
+    margin-top: 5px;
+}
+.mlvg .mag {
+    width: 15px;
+    height: 14px;
+}
+.mlvg:hover {
+    background: rgb(231, 116, 135);
+}
+.npg {
+    font-size: 12px;
+    color: rgb(93,109,121);
+    font-weight: normal;
+}
+.npg:hover {
+    background: rgb(231, 116, 135);
+    width: 22px;
+}
+.mksg {
+    margin-left: 20px;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    border: none;
+    background: white;
+    margin-top: 5px;
+}
+.mksg .mcg {
+    width: 16px;
+    height: 15px;
+}
+.mksg:hover {
+    background: rgb(197, 197, 231);
+}
+.bsg {
+    font-size: 12px;
+    color: rgb(93,109,121);
+    font-weight: normal;
+}
+.bsg:hover {
+    background: rgb(197, 197, 231);
+    width: 22px;
+}
+
+.div2 .num5 {
+    height: 800px;
+    margin-top: -200px;
+    width: 100%;
+}
+.num5 .wum5 {
+    width: 100%;
+    height: 70px;
+    display: flex;
+
+}
+.num5 .imgp {
+    width: 50px;
+    height: 50px;
+    margin-left: 5px;
+    border-radius: 50%;
+}
+.wum5 .mimg {
+    margin-left: 10px;
+    margin-top: -0px;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.num5 .img4 {
+    width: 25px;
+    height: 25px;
+    margin-left: 3px;
+    margin-top: -4px;
+}
+.wum5 .kp {
+    margin-top: -1px;
+    font-family: sans-serif;
+    color: rgb(83,100,113);
+    font-size: 15px;
+    margin-right: -270px;
+}
+.num5 .dott {
+    width: 20px;
+    height: 25px;
+    margin-left: 470px;
+    margin-top: -4px;
+}
+.num5 .ttt {
+    font-size: 15px;
+    font-family: sans-serif;
+    margin-left: 71px;
+    margin-top: -50px;
+}
+.num5 .img {
+    border-radius: 20px;
+    padding: 20px;
+    margin: auto;
+    width: 82%;
+    margin-top: 30px;
+    height: 400px;
+    background: url(images/blakpup.jpg);
+    background-size: cover;
+    margin-top: -1px;
+    margin-left: 60px;
+}
+.num5 .fa {
+    margin-top: -5px;
+    margin-left: 30px;
+}
+.muug {
+    margin-top: 25px;
+    margin-left: 30px;
+    margin-right: 18px;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    border: none;
+    background: white;
+}
+.mgg:hover {
+    background: rgb(197, 197, 231);
+}
+.qsg {
+    margin-left: -20px;
+    font-family: sans-serif;
+    font-size: 13px;
+    width: 22px;
+    color: rgb(93,109,121);
+}
+.qsg:hover {
+    background: rgb(197, 197, 231);
+    width: 22px;
+}
+.mfsg {
+    margin-left: 20px;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    border: none;
+    background: white;
+    margin-top: 5px;
+}
+.mfsg .mfg {
+    width: 15px;
+    height: 15px;
+}
+.mfsg:hover {
+    background: rgb(162, 187, 167);
+}
+.asg {
+    font-size: 13px;
+    color: rgb(93,109,121);
+    font-weight: normal;
+}
+.asg:hover {
+    background: rgb(162, 187, 167);
+    width: 22px;
+}
+.mllg {
+    margin-left: 20px;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    border: none;
+    background: white;
+    margin-top: 5px;
+}
+.mllg .mag {
+    width: 15px;
+    height: 14px;
+}
+.mllg:hover {
+    background: rgb(231, 116, 135);
+}
+.gpg {
+    font-size: 12px;
+    color: rgb(93,109,121);
+    font-weight: normal;
+}
+.gpg:hover {
+    background: rgb(231, 116, 135);
+    width: 22px;
+}
+.mzsg {
+    margin-left: 20px;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    border: none;
+    background: white;
+    margin-top: 5px;
+}
+.mzsg .mcg {
+    width: 16px;
+    height: 15px;
+}
+.mzsg:hover {
+    background: rgb(197, 197, 231);
+}
+.nsg {
+    font-size: 12px;
+    color: rgb(93,109,121);
+    font-weight: normal;
+}
+.bsg:hover {
+    background: rgb(197, 197, 231);
+    width: 22px;
+}
+
